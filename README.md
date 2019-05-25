@@ -1,8 +1,8 @@
 # AnimalChess
 -코드 경로
-유니티 스크립트 위치는 /Asset/Scripts 에 /Login, /Lobby, /Play 로 분류되어있습니다.
-서버 코드는 /Server 에 AnimalChessServer.py 입니다.
-데이터베이스 정보는 AnimalChess.sql 입니다.
+-유니티 스크립트 위치는 /Asset/Scripts 에 /Login, /Lobby, /Play 로 분류되어있습니다.
+-서버 코드는 /Server 에 AnimalChessServer.py 입니다.
+-데이터베이스 정보는 AnimalChess.sql 입니다.
 
 -담당한 부분 
 서버구축과 /Login, /Lobby, 사운드 전담 작업하였습니다.
